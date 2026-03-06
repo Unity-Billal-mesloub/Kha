@@ -2,18 +2,18 @@
 Kha is a low level sdk for building games and media applications in a portable way. Think SDL, but super-charged. Based on the Haxe programming language and the krafix shader-compiler it can cross-compile your code and optimize your assets for even the most obscure systems. Kha is so portable, it can in fact run on top of other game engines and its generational graphics and audio api design gets the best out of every target, supporting super fast 2D graphics just as well as high end 3D graphics. Also, Kha probably added a new target while you were reading this text. 
 
 * [Download](http://kha.tech/download)
-* [Get Started](https://github.com/Kode/Kha/wiki/Getting-Started)
-* [Wiki](https://github.com/Kode/Kha/wiki/)
-* [Examples](https://github.com/Kode/Kha/wiki/Examples)
-* [License](https://github.com/Kode/Kha/blob/master/license.txt)
+* [Get Started](https://github.com/Unity-Billal-mesloub/Kha/wiki/Getting-Started)
+* [Wiki](https://github.com/Unity-Billal-mesloub/Kha/wiki/)
+* [Examples](https://github.com/Unity-Billal-mesloub/Kha/wiki/Examples)
+* [License](https://github.com/Unity-Billal-mesloub/Kha/blob/main/license.txt)
 
 ### Community
 * [Blog](http://kode.tech)
 * [Forum](http://forum.kode.tech)
 * [Kha channel at kode.tech](https://kiwiirc.com/client/irc.kode.tech/#kha)
 * [Discord](http://discord.kode.tech)
-* [Games](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) built with Kha
-* [Engines](https://github.com/Kode/Kha/wiki/Engines-using-Kha) using Kha
+* [Games](https://github.com/Unity-Billal-mesloub/Kha/wiki/Games-Built-With-Kha) built with Kha
+* [Engines](https://github.com/Unity-Billal-mesloub/Kha/wiki/Engines-using-Kha) using Kha
 
 ### Features
 * Great performance on each platform.
@@ -48,4 +48,5 @@ Kha is a low level sdk for building games and media applications in a portable w
 * Nintendo Switch 2*
 
 \* The consoles code is not public. If you are a registered developer with Microsoft/Nintendo/Sony you can contact us to get access.
+
 
