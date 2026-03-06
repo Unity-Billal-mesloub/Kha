@@ -5,7 +5,7 @@ Kha is a low level sdk for building games and media applications in a portable w
 * [Get Started](https://github.com/Unity-Billal-mesloub/Kha/wiki/Getting-Started)
 * [Wiki](https://github.com/Unity-Billal-mesloub/Kha/wiki/)
 * [Examples](https://github.com/Unity-Billal-mesloub/Kha/wiki/Examples)
-* [License](https://github.com/Unity-Billal-mesloub/Kha/blob/main/license.txt)
+* [License](https://github.com/Unity-Billal-mesloub/Kha/blob/main/license)
 
 ### Community
 * [Blog](http://kode.tech)
@@ -48,5 +48,6 @@ Kha is a low level sdk for building games and media applications in a portable w
 * Nintendo Switch 2*
 
 \* The consoles code is not public. If you are a registered developer with Microsoft/Nintendo/Sony you can contact us to get access.
+
 
 
